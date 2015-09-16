@@ -13,7 +13,6 @@ RegisterUnitWatch(f)
 -- Step II : Style
 f:SetPoint("CENTER", UIParent, "TOP", 0, -150)
 f:SetFrameStrata("LOW")
-f:SetFrameLevel(1)
 f:SetWidth(250)
 f:SetHeight(36)
 
